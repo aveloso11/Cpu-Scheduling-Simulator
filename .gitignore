@@ -1,0 +1,8 @@
+# Compiled Java files
+*.class
+
+# Ignore entire backend folder's class files
+backend/*.class
+
+# VS Code settings
+.vscode/
